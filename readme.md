@@ -4,8 +4,8 @@ These are just scripts I use for my own personal automation. Probably not that u
 
 ## Tools used
 
-* iMacros: Firefox browser scripting
-* Windows Task Scheduler: executes .bat files to trigger the iMacros in Firefox
+* [iMacros](http://imacros.net/overview): Firefox browser scripting
+* [Windows Task Scheduler](http://windows.microsoft.com/en-US/windows/schedule-task): executes .bat files to trigger the iMacros in Firefox.  My work machine is windows, and is always on, making it ideal to trigger things in an unobtrusive manner (e.g. at night/over weekends) 
 
 ## Bing
 
