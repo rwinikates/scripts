@@ -15,3 +15,6 @@ These are just scripts I use for my own personal automation. Probably not that u
 
 I sell stuff I no longer need/want on Craigslist. These scripts help me repost/renew listings automatically.
 
+## InboxDollars
+
+Their search rewards give 1 cent for every 2 searches, up to 15c a day. This set of scripts will fulfill that. Based off the work I did before, it was about 10 minutes of work for me to set up this new script, so my ROI should be pretty quick. There are other ways to earn rewards with this service, but those seem more difficult to script out. [Referral link if you feel like using these, I'll get a 10% based off what you earn.](http://www.inboxdollars.com/?r=ref17955163)
