@@ -61,4 +61,5 @@ TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:sb_form ATTR=ID:sbBtn
 WAIT SECONDS=10
 TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=20{{!NOW:ddmmyyhhnnss}}
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:sb_form ATTR=ID:sbBtn
-WAIT SECONDS=10
+SET !USERAGENT "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:34.0) Gecko/20100101 Firefox/34.0"
+URL GOTO=http://www.bing.com/rewards/dashboard
