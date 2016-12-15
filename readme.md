@@ -12,8 +12,8 @@ These are just scripts I use for my own personal automation. Probably not that u
 "Bro, you use bing?" Yeah. They have a rewards program that I've automated to make the most of. I actually alternate btwn Google and DuckDuckGo for my real web searching.
  
  * bing-total.iim: DEPRECATED. The Microsoft bots recognize the scripting and will shut down your account. Sad. Instead i click through the bing.com/news tabs when I remember. 
- * bing.bat: the batch file to start firefox and trigger the imacros script
- * bing-scheduler.xml: the windows task scheduler example file for running the batch file once a day
+ * bing.bat: the batch file to start firefox and trigger the imacros script. 
+ * bing-scheduler.xml: the windows task scheduler example file for running the batch file once a day. For others to use it you'll need to update the location of where bing.bat lives for the <command> instruction.
 
 ## Craigslist
 
