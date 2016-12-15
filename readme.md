@@ -9,9 +9,9 @@ These are just scripts I use for my own personal automation. Probably not that u
 
 ## Bing
 
-"Bro, you use bing?" Yeah. They have a rewards program that I've automated to make the most of. I actually alternate btwn Google and DuckDuckGo for my real web searching. [Feel free to lift these scripts and use them yourself](https://www.bing.com/explore/rewards?PUBL=REFERAFRIEND&CREA=RAW&rrid=_b3d0a4ac-8f8d-d1dd-431b-2f9090ddaeb7) (referral link, since I already did the hard work for you, you can at least give me a little credit, right?)
+"Bro, you use bing?" Yeah. They have a rewards program that I've automated to make the most of. I actually alternate btwn Google and DuckDuckGo for my real web searching.
  
- * bing-total.iim: the imacros script file to execute once a day to get full search credits
+ * bing-total.iim: DEPRECATED. The Microsoft bots recognize the scripting and will shut down your account. Sad. Instead i click through the bing.com/news tabs when I remember. 
  * bing.bat: the batch file to start firefox and trigger the imacros script
  * bing-scheduler.xml: the windows task scheduler example file for running the batch file once a day
 
